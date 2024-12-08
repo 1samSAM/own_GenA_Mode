@@ -65,12 +65,12 @@ Publish your trained model on Hugging Face. This step makes your model accessibl
 3.Follow the instructions in the notebook to complete each step of the workflow
 
 ---
-##🌟 Expected Outcomes
+## 🌟 Expected Outcomes
 By completing this project, you will:
 -Develop a fine-tuned generative AI model tailored to your dataset.
 -Gain hands-on experience with cutting-edge AI tools and workflows.
 -Successfully deploy your custom model on Hugging Face.
 
 ---
-##🤝 Acknowledgments
+## 🤝 Acknowledgments
 This project was developed during the NxtWave Hands-On Workshop. Special thanks to the open-source community and Hugging Face for their incredible tools and support.
